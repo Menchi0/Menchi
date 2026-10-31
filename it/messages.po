@@ -200,17 +200,17 @@ msgstr "cooldown di {0} giorni"
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:192
 msgid "{0} development income"
-msgstr "{0} reddito da sviluppo"
+msgstr ""
 
 #. placeholder {0}: developmentPercent(conquered)
 #: src/components/_political/govType/govType.frontConfig.tsx:214
 msgid "{0} development income from conquered regions"
-msgstr "{0} reddito di sviluppo dalle regioni conquistate"
+msgstr ""
 
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:199
 msgid "{0} development income from core regions"
-msgstr "{0} reddito di sviluppo dalle regioni principali"
+msgstr ""
 
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:32
@@ -8603,7 +8603,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:282
 msgid "Happiness {mood} or more, after 14 days in the company."
-msgstr "Felicità {mood} o più, dopo 14 giorni in azienda."
+msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:118
 msgid "Happiness {mood} or more, and either 5 days of experience in the company's good or {quickStudy}."
@@ -8819,19 +8819,19 @@ msgstr "Combattere per il proprio paese mentre si è nel governo dà {0}% di eff
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:415
 msgid "Holding a tool worn down to 40 durability or less. Twice as likely if {jinx} or {handy}."
-msgstr "Tenere uno strumento consumato fino a 40 di durabilità o meno. Il doppio delle probabilità se {jinx} o {handy."
+msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:108
 msgid "Holding a tool worn down to 50 durability or less. Twice as likely if {handy}."
-msgstr "Tenere uno strumento consumato fino a 50 di durabilità o meno. Il doppio di probabilità se {handy}."
+msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:471
 msgid "Holding a tool, and {handy} or {improviser}."
-msgstr "Tenere uno struemnto, e {handy} o {improviser}."
+msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:307
 msgid "Holding a tool. Twice as likely for a {gambler}."
-msgstr "Tenere uno strumento. Due volte più probabile per un {gambler}."
+msgstr ""
 
 #: src/components/_military/mu/MuHeader.tsx:149
 #: src/components/_military/tournament/TournamentHeader.tsx:145
@@ -11790,7 +11790,7 @@ msgstr "Solo per {creatureOfHabit}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:155
 msgid "Only a {gambler}."
-msgstr "Solo per {gambler}."
+msgstr "Solo per {giocatore d'azzardo}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:497
 msgid "Only a {jinx}."
@@ -12247,11 +12247,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2003
 msgid "Pay for a dinner for two"
-msgstr "Pagare una cena per due"
+msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:712
 msgid "Pay for a short visit home"
-msgstr "Pagare per una breve visita a casa"
+msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:703
 msgid "Pay for a trip home"
@@ -12276,7 +12276,7 @@ msgstr "Paga aumentata"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2277
 msgid "Pay the “inspection fee”"
-msgstr "Paga la “tassa si ispezione”"
+msgstr ""
 
 #: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
@@ -15154,7 +15154,7 @@ msgstr ""
 
 #: src/components/_economy/employee/training.frontConfig.tsx:102
 msgid "Teaches one good trait, no downside."
-msgstr "Insegna una buona caratteristica, nessuno svantaggio"
+msgstr "Insegna una buona qualità,nessuno svantaggio"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:98
 msgid "Teaches one mixed trait: real upside, with a string attached."
@@ -15377,7 +15377,7 @@ msgstr "Il giacimento scadrà tra il seguente intervallo di tempo."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2008
 msgid "The dinner ends early. {name} and {partnerName} go their separate ways."
-msgstr "La cena finisce presto. {name} and {partnerName} vanno ciascuno per la propria strada."
+msgstr "La cena finisce presto. {name} and "{partnerName} vanno ciascuno per la propria strada."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:529
 msgid "The doctor finds the cause. The burnout is behind them."
